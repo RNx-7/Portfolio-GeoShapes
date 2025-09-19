@@ -37,7 +37,7 @@ namespace Portfolio_GeoShapes
         public double BerechneUmfang() => a.Laenge + b.Laenge + c.Laenge;
 
 
-        /// <summary>Berechnet die Flaeche des Dreiecks mit Heron: s=(a+b+c)/2, A = sqrt(s*(s-a)*(s-b)*(s-c)).</summary>
+        /// <summary>Berechnet die Flaeche des Dreiecks mit Heron: s=(a+b+c)/2, Flaeche = wurzel von(s*(s-a)*(s-b)*(s-c)).</summary>
         /// <returns>Flaeche > 0.</returns>
         /// <exception cref="InvalidOperationException">Wenn die Seiten kein gueltiges Dreieck bilden.</exception>
         /// public double BerechneFlaeche() { /* ... */ } // Dreieck

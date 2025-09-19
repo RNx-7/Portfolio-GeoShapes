@@ -6,11 +6,11 @@ namespace Portfolio_GeoShapes
     {
         public static void Main()
         {
-            var r1 = new Rechteck(10, 18);
+            var r1 = new Rechteck(4, 7);
             var r2 = new Rechteck(5, 13);
             var d1 = new Dreieck(7, 7, 7);
             var k1 = new Kreis(1);
-            var k2 = new Kreis(3);
+            var k2 = new Kreis(12);
 
             var fb = new FormenAddRemove();
             fb.AddRechteck(r1);
