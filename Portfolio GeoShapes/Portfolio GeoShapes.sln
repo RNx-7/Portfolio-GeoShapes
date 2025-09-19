@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio GeoShapes", "Portfolio GeoShapes.csproj", "{51C7C1AF-B1B3-4E1B-8AAF-10F0D3ED732F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGeoShapes", "..\TestGeoShapes\TestGeoShapes.csproj", "{1255F5CD-2F5B-474C-9F60-7DD49778A838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C7C1AF-B1B3-4E1B-8AAF-10F0D3ED732F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C7C1AF-B1B3-4E1B-8AAF-10F0D3ED732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C7C1AF-B1B3-4E1B-8AAF-10F0D3ED732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C7C1AF-B1B3-4E1B-8AAF-10F0D3ED732F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1255F5CD-2F5B-474C-9F60-7DD49778A838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1255F5CD-2F5B-474C-9F60-7DD49778A838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1255F5CD-2F5B-474C-9F60-7DD49778A838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1255F5CD-2F5B-474C-9F60-7DD49778A838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC99381-8E34-440F-896B-F5A7D82C6283}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "GeoShapes": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\quize\\Desktop\\DTA\\7 Repository\\Objektbasiertes  Programmierung\\Properties\\launchSettings.json",
+      "workingDirectory": "C:\\Users\\quize\\Desktop\\DTA\\7 Repository\\Objektbasiertes  Programmierung"
+    }
+  }
+}
